@@ -12,18 +12,12 @@ Proyek ini merupakan halaman login sederhana untuk Bangunindo Design System yang
     
 
 ## Cara Penggunaan
-
-1.  Clone Repositori:
     
-    bashCopy code
-    
-    `git clone https://github.com/nama-anda/bangunindo-ui-login.git` 
-    
-2.  Buka Berkas HTML:
+1.  Buka Berkas HTML:
     
     Buka berkas `index.html` di peramban web pilihan Anda.
     
-3.  Jelajahi Fitur:
+2.  Jelajahi Fitur:
     
     Jelajahi halaman login dan interaksikan dengan formulir otentikasi pengguna.
     
